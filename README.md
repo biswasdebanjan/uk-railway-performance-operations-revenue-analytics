@@ -672,7 +672,7 @@ The `reference/` folder preserves the complete report-page sequence, while the R
 ## ■ Author
 
 **Debanjan Biswas**  
-Data Analyst | SQL | Power BI | Python
+Data Analyst  Excel | SQL | Power BI | Python
 
 **Email:** [bishwasdebanjan99@gmail.com](mailto:bishwasdebanjan99@gmail.com)  
 **LinkedIn:** [linkedin.com/in/biswas-debanjan-2ab011148](https://www.linkedin.com/in/biswas-debanjan-2ab011148/)
